@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rocha.DESKTOP-V84STCM\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rocha.DESKTOP-V84STCM\\.nuget\\packages"
+    ]
+  }
+}
